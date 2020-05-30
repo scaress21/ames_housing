@@ -1,5 +1,7 @@
 # Ames Housing Data Analysis
 
+##### Overview: [1. Cleaning](https://github.com/scaress21/ames_housing/blob/master/code/01_Cleaning.ipynb) | [2. EDA](https://github.com/scaress21/ames_housing/blob/master/code/02_EDA.ipynb) | [3A. MLR Model](https://github.com/scaress21/ames_housing/blob/master/code/03A_MLR_Model.ipynb) | [3B. Ridge Model](https://github.com/scaress21/ames_housing/blob/master/code/03B_Ridge_Model.ipynb) | [3C. LASSO Model](https://github.com/scaress21/ames_housing/blob/master/code/03C_LASSO_Model.ipynb) | [4. Kaggle Submission](https://github.com/scaress21/ames_housing/blob/master/code/04_Kaggle_Submission.ipynb) | [5. Model for Presentation](https://github.com/scaress21/ames_housing/blob/master/code/05_Presentation_Model_and_Plots.ipynb)
+
 ## Problem Statement
 Purchasing a home is often one of the biggest investments in someone's life. Naturally, homeowners want to do everything they can to get the highest return on their purchase. When it comes to remodeling and making improvements, what features should homeowners focus their money on to get the most value back?
 
